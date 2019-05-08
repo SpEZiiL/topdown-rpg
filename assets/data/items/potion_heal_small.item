@@ -1,0 +1,23 @@
+{
+	"name": "Small Healing Potion",
+	"id": "potion_heal_small",
+	"description": "<description>",
+
+	"type": "consumable",
+
+	"icons": {
+		"hotbar": {
+			"path": "sprites/icons/items/",
+			"framesize": [120, 150]
+		}
+	},
+
+	"animations": {
+		"shaking": {
+			"path": "sprites/animations/items/",
+			"framesize": [8, 10],
+			"fps": 13,
+			"framecount": 13
+		}
+	}
+}

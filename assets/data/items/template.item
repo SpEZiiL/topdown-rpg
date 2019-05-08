@@ -1,0 +1,22 @@
+{
+	"name": "<name>",
+	"id": "<id>",
+	"description": "<description>",
+
+	"type": "<key|consumable|equipment/<handheld/<sword|staff|bow|shield>|helmet|body-armor|gloves|leggings|boots>>",
+
+	"icons": {
+		"hotbar": {
+			"path": "<path>",
+			"size": "<size>"
+		}
+	},
+
+	"animations": {
+		"<animation>": {
+			"path": "<path>",
+			"framesize": [],
+			"fps": #
+		}
+	}
+}

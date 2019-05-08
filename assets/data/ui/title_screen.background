@@ -1,0 +1,13 @@
+{
+	"name": "Title screen background",
+	"id": "title_screen_background",
+
+	"animations": {
+		"main": {
+			"path": "sprites/animations/ui/",
+			"framesize": [426, 240],
+			"fps": 13,
+			"framecount": 16
+		}
+	}
+}

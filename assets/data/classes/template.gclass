@@ -1,0 +1,29 @@
+{
+	"name": "<name>",
+	"id": "<id>",
+	"description": "<description>",
+
+	"init-max-hp": #,
+	"max-hp-mult": #,
+
+	"init-atk": #,
+	"atk-mult": #,
+
+	"init-mag-atk": #,
+	"mag-atk-mult": #,
+
+	"init-def": #,
+	"def-mult": #,
+
+	"init-mag-def": #,
+	"mag-def-mult": #,
+
+	"init-agi": #,
+	"agi-mult": #,
+
+	"moveset": [
+		{ "move": "<move>", "lvl": # }, ...
+	],
+
+	"valid-equipment": ["<equipment-type>", ... ]
+}

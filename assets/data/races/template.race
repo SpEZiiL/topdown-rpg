@@ -1,0 +1,12 @@
+{
+	"name": "<name>",
+	"id": "<id>",
+	"description": "<description>",
+
+	"max-hp-boost": #,
+	"atk-boost": #,
+	"mag-atk-boost": #,
+	"def-boost": #,
+	"mag-def-boost": #,
+	"agi-boost": #
+}

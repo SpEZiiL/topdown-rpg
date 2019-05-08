@@ -1,0 +1,6 @@
+{
+	"name": "rpg-game",
+	"version": "0.0.0",
+	"mainFile": "src/python/ui.py",
+	"icon": ""
+}
